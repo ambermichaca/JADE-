@@ -1,1 +1,45 @@
-style.css
+img{
+	height: 300px;
+
+}
+h1{
+	color: grey;
+}
+h1{
+	font-size: 11
+}
+
+.font-size-medium{
+	font-size: : 20px;
+
+}
+
+.color-font{
+	color:blue;
+}
+
+#this-header{
+	font-size: :100px;
+}
+
+.font-roboto{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.container{
+	background-color:C0E8F9;
+}
+
+.center-text{
+	text-align:center !important;
+}
+
+.bottoncolor{
+	color: CE7B91;
+}
+
+.blue {
+  background-color: #C0E8F9;
+}
+.pink{
+  background-color: #CE7B91;
+}
